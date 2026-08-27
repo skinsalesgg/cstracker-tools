@@ -2,11 +2,11 @@
   "category_id": "bad_words",
   "category_label": "Bad Words",
   "description": "Profanity and slurs",
-  "generated_at": "2026-08-27T04:19:16.685531+00:00",
-  "source_message_count": 123588,
-  "player_count": 169,
-  "players_with_matches": 130,
-  "total_matches": 4695,
+  "generated_at": "2026-08-27T04:22:29.555946+00:00",
+  "source_message_count": 124097,
+  "player_count": 170,
+  "players_with_matches": 131,
+  "total_matches": 4753,
   "leaderboard": [
     {
       "steam_id": "76561197960423112",
@@ -167,6 +167,14 @@
       "total_messages": 679,
       "match_count": 63,
       "rate_per_message": 0.092784
+    },
+    {
+      "steam_id": "76561198189555647",
+      "steam_url": "https://steamcommunity.com/id/LucasAcknowledged",
+      "cstracker_url": "https://cstracker.gg/players/76561198189555647",
+      "total_messages": 509,
+      "match_count": 58,
+      "rate_per_message": 0.113949
     },
     {
       "steam_id": "76561198207237589",

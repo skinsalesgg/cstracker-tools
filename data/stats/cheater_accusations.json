@@ -2,11 +2,11 @@
   "category_id": "cheater_accusations",
   "category_label": "Cheater Accusations",
   "description": "cheater, wallhack, aimhack, spinbot, wh, etc.",
-  "generated_at": "2026-08-27T04:19:17.701365+00:00",
-  "source_message_count": 123588,
-  "player_count": 169,
-  "players_with_matches": 103,
-  "total_matches": 1294,
+  "generated_at": "2026-08-27T04:22:30.586806+00:00",
+  "source_message_count": 124097,
+  "player_count": 170,
+  "players_with_matches": 104,
+  "total_matches": 1298,
   "leaderboard": [
     {
       "steam_id": "76561198983729391",
@@ -399,6 +399,14 @@
       "total_messages": 441,
       "match_count": 4,
       "rate_per_message": 0.00907
+    },
+    {
+      "steam_id": "76561198189555647",
+      "steam_url": "https://steamcommunity.com/id/LucasAcknowledged",
+      "cstracker_url": "https://cstracker.gg/players/76561198189555647",
+      "total_messages": 509,
+      "match_count": 4,
+      "rate_per_message": 0.007859
     },
     {
       "steam_id": "76561198874447550",

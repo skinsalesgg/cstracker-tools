@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-08-27T04:19:21.311952+00:00",
-  "profile_count": 186,
+  "generated_at": "2026-08-27T04:22:31.061786+00:00",
+  "profile_count": 187,
   "profiles": {
     "76561198065436693": {
       "steam_id": "76561198065436693",
@@ -2044,6 +2044,17 @@
       "avatar_medium_url": "https://avatars.fastly.steamstatic.com/b4c6a68f5a7e61ad59b43e9f43ea8ad65f9992ab_medium.jpg",
       "custom_url": "melvin404",
       "profile_url": "https://steamcommunity.com/id/melvin404",
+      "online_state": "offline",
+      "status": "ok",
+      "error": null
+    },
+    "76561198189555647": {
+      "steam_id": "76561198189555647",
+      "persona_name": "\ufffdSkuttle\ufffd",
+      "avatar_url": "https://avatars.fastly.steamstatic.com/5069491424de4f6af3dc1f9cc55202f56fffcb72_full.jpg",
+      "avatar_medium_url": "https://avatars.fastly.steamstatic.com/5069491424de4f6af3dc1f9cc55202f56fffcb72_medium.jpg",
+      "custom_url": "LucasAcknowledged",
+      "profile_url": "https://steamcommunity.com/id/LucasAcknowledged",
       "online_state": "offline",
       "status": "ok",
       "error": null

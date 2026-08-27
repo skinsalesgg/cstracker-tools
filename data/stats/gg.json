@@ -2,11 +2,11 @@
   "category_id": "gg",
   "category_label": "GG",
   "description": "Times player said some variation of gg",
-  "generated_at": "2026-08-27T04:19:17.350947+00:00",
-  "source_message_count": 123588,
-  "player_count": 169,
-  "players_with_matches": 159,
-  "total_matches": 14818,
+  "generated_at": "2026-08-27T04:22:30.228950+00:00",
+  "source_message_count": 124097,
+  "player_count": 170,
+  "players_with_matches": 160,
+  "total_matches": 14893,
   "leaderboard": [
     {
       "steam_id": "76561198970429551",
@@ -399,6 +399,14 @@
       "total_messages": 707,
       "match_count": 80,
       "rate_per_message": 0.113154
+    },
+    {
+      "steam_id": "76561198189555647",
+      "steam_url": "https://steamcommunity.com/id/LucasAcknowledged",
+      "cstracker_url": "https://cstracker.gg/players/76561198189555647",
+      "total_messages": 509,
+      "match_count": 75,
+      "rate_per_message": 0.147348
     },
     {
       "steam_id": "76561198995476026",
