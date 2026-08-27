@@ -2,11 +2,11 @@
   "category_id": "gg",
   "category_label": "GG",
   "description": "Times player said some variation of gg",
-  "generated_at": "2026-08-27T04:22:30.228950+00:00",
-  "source_message_count": 124097,
-  "player_count": 170,
-  "players_with_matches": 160,
-  "total_matches": 14893,
+  "generated_at": "2026-08-27T05:00:35.990979+00:00",
+  "source_message_count": 124358,
+  "player_count": 171,
+  "players_with_matches": 161,
+  "total_matches": 14965,
   "leaderboard": [
     {
       "steam_id": "76561198970429551",
@@ -439,6 +439,14 @@
       "total_messages": 712,
       "match_count": 73,
       "rate_per_message": 0.102528
+    },
+    {
+      "steam_id": "76561198153321974",
+      "steam_url": "https://steamcommunity.com/profiles/76561198153321974",
+      "cstracker_url": "https://cstracker.gg/players/76561198153321974",
+      "total_messages": 261,
+      "match_count": 72,
+      "rate_per_message": 0.275862
     },
     {
       "steam_id": "76561198072401305",

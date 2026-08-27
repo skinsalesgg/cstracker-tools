@@ -2,9 +2,9 @@
   "category_id": "racist_words",
   "category_label": "Racist Words",
   "description": "Racist words",
-  "generated_at": "2026-08-27T04:22:29.699685+00:00",
-  "source_message_count": 124097,
-  "player_count": 170,
+  "generated_at": "2026-08-27T05:00:35.461188+00:00",
+  "source_message_count": 124358,
+  "player_count": 171,
   "players_with_matches": 40,
   "total_matches": 418,
   "leaderboard": [
@@ -1365,6 +1365,14 @@
       "steam_url": "https://steamcommunity.com/id/LucasAcknowledged",
       "cstracker_url": "https://cstracker.gg/players/76561198189555647",
       "total_messages": 509,
+      "match_count": 0,
+      "rate_per_message": 0.0
+    },
+    {
+      "steam_id": "76561198153321974",
+      "steam_url": "https://steamcommunity.com/profiles/76561198153321974",
+      "cstracker_url": "https://cstracker.gg/players/76561198153321974",
+      "total_messages": 261,
       "match_count": 0,
       "rate_per_message": 0.0
     }

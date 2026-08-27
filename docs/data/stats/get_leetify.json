@@ -2,11 +2,11 @@
   "category_id": "get_leetify",
   "category_label": "Get Leetify",
   "description": "Times player said get leetify",
-  "generated_at": "2026-08-27T04:22:30.276667+00:00",
-  "source_message_count": 124097,
-  "player_count": 170,
-  "players_with_matches": 65,
-  "total_matches": 1872,
+  "generated_at": "2026-08-27T05:00:36.039510+00:00",
+  "source_message_count": 124358,
+  "player_count": 171,
+  "players_with_matches": 66,
+  "total_matches": 1876,
   "leaderboard": [
     {
       "steam_id": "76561198364608824",
@@ -319,6 +319,14 @@
       "total_messages": 1833,
       "match_count": 5,
       "rate_per_message": 0.002728
+    },
+    {
+      "steam_id": "76561198153321974",
+      "steam_url": "https://steamcommunity.com/profiles/76561198153321974",
+      "cstracker_url": "https://cstracker.gg/players/76561198153321974",
+      "total_messages": 261,
+      "match_count": 4,
+      "rate_per_message": 0.015326
     },
     {
       "steam_id": "76561198202508070",
