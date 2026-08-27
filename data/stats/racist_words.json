@@ -2,11 +2,11 @@
   "category_id": "racist_words",
   "category_label": "Racist Words",
   "description": "Racist words",
-  "generated_at": "2026-08-27T03:47:44.404218+00:00",
-  "source_message_count": 115716,
-  "player_count": 161,
-  "players_with_matches": 37,
-  "total_matches": 395,
+  "generated_at": "2026-08-27T04:18:00.656377+00:00",
+  "source_message_count": 123588,
+  "player_count": 169,
+  "players_with_matches": 40,
+  "total_matches": 418,
   "leaderboard": [
     {
       "steam_id": "76561197960423112",
@@ -65,6 +65,14 @@
       "rate_per_message": 0.045455
     },
     {
+      "steam_id": "76561198950355334",
+      "steam_url": "https://steamcommunity.com/profiles/76561198950355334",
+      "cstracker_url": "https://cstracker.gg/players/76561198950355334",
+      "total_messages": 2463,
+      "match_count": 14,
+      "rate_per_message": 0.005684
+    },
+    {
       "steam_id": "76561199468404675",
       "steam_url": "https://steamcommunity.com/profiles/76561199468404675",
       "cstracker_url": "https://cstracker.gg/players/76561199468404675",
@@ -119,6 +127,14 @@
       "total_messages": 1177,
       "match_count": 7,
       "rate_per_message": 0.005947
+    },
+    {
+      "steam_id": "76561199070234874",
+      "steam_url": "https://steamcommunity.com/profiles/76561199070234874",
+      "cstracker_url": "https://cstracker.gg/players/76561199070234874",
+      "total_messages": 3511,
+      "match_count": 7,
+      "rate_per_message": 0.001994
     },
     {
       "steam_id": "76561199176433616",
@@ -191,6 +207,14 @@
       "total_messages": 202,
       "match_count": 2,
       "rate_per_message": 0.009901
+    },
+    {
+      "steam_id": "76561199197294454",
+      "steam_url": "https://steamcommunity.com/profiles/76561199197294454",
+      "cstracker_url": "https://cstracker.gg/players/76561199197294454",
+      "total_messages": 473,
+      "match_count": 2,
+      "rate_per_message": 0.004228
     },
     {
       "steam_id": "76561198003417138",
@@ -1293,6 +1317,46 @@
       "steam_url": "https://steamcommunity.com/id/kwersi",
       "cstracker_url": "https://cstracker.gg/players/76561198354031646",
       "total_messages": 2846,
+      "match_count": 0,
+      "rate_per_message": 0.0
+    },
+    {
+      "steam_id": "76561199574538080",
+      "steam_url": "https://steamcommunity.com/profiles/76561199574538080",
+      "cstracker_url": "https://cstracker.gg/players/76561199574538080",
+      "total_messages": 120,
+      "match_count": 0,
+      "rate_per_message": 0.0
+    },
+    {
+      "steam_id": "76561198077505109",
+      "steam_url": "https://steamcommunity.com/profiles/76561198077505109",
+      "cstracker_url": "https://cstracker.gg/players/76561198077505109",
+      "total_messages": 306,
+      "match_count": 0,
+      "rate_per_message": 0.0
+    },
+    {
+      "steam_id": "76561199003807451",
+      "steam_url": "https://steamcommunity.com/profiles/76561199003807451",
+      "cstracker_url": "https://cstracker.gg/players/76561199003807451",
+      "total_messages": 39,
+      "match_count": 0,
+      "rate_per_message": 0.0
+    },
+    {
+      "steam_id": "76561198929990646",
+      "steam_url": "https://steamcommunity.com/profiles/76561198929990646",
+      "cstracker_url": "https://cstracker.gg/players/76561198929990646",
+      "total_messages": 382,
+      "match_count": 0,
+      "rate_per_message": 0.0
+    },
+    {
+      "steam_id": "76561198126543982",
+      "steam_url": "https://steamcommunity.com/profiles/76561198126543982",
+      "cstracker_url": "https://cstracker.gg/players/76561198126543982",
+      "total_messages": 578,
       "match_count": 0,
       "rate_per_message": 0.0
     }

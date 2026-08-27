@@ -13,6 +13,7 @@ DOCS = ROOT / "docs"
 DASHBOARD_SRC = ROOT / "dashboard"
 STATS_SRC = ROOT / "data" / "stats"
 PROFILES_SRC = ROOT / "data" / "steam_profiles.json"
+CUSTOM_DOMAIN = "chattrak.goodvibes.gg"
 
 
 def build(output_dir: Path = DOCS) -> None:
@@ -24,35 +25,25 @@ def build(output_dir: Path = DOCS) -> None:
     if output_dir.exists():
         shutil.rmtree(output_dir)
 
-    dashboard_dst = output_dir / "dashboard"
+    output_dir.mkdir(parents=True)
     stats_dst = output_dir / "data" / "stats"
     profiles_dst = output_dir / "data" / "steam_profiles.json"
 
-    shutil.copytree(DASHBOARD_SRC, dashboard_dst)
+    for item in DASHBOARD_SRC.iterdir():
+        if item.is_file():
+            shutil.copy2(item, output_dir / item.name)
+
     shutil.copytree(STATS_SRC, stats_dst)
 
     if PROFILES_SRC.exists():
         profiles_dst.parent.mkdir(parents=True, exist_ok=True)
         shutil.copy2(PROFILES_SRC, profiles_dst)
 
-    (output_dir / "index.html").write_text(
-        """<!doctype html>
-<html lang="en">
-  <head>
-    <meta charset="utf-8" />
-    <meta http-equiv="refresh" content="0; url=./dashboard/" />
-    <title>ChatTrak Leaderboards</title>
-  </head>
-  <body>
-    <p><a href="./dashboard/">Open ChatTrak dashboard</a></p>
-  </body>
-</html>
-""",
-        encoding="utf-8",
-    )
+    (output_dir / "CNAME").write_text(f"{CUSTOM_DOMAIN}\n", encoding="utf-8")
 
     print(f"Built GitHub Pages site at {output_dir}")
-    print("  dashboard/  - UI")
+    print(f"  https://{CUSTOM_DOMAIN}/")
+    print("  index.html, app.js, styles.css - dashboard UI at site root")
     print("  data/stats/ - leaderboard JSON")
     if profiles_dst.exists():
         print("  data/steam_profiles.json - avatars and names")

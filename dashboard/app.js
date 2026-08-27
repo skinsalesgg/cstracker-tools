@@ -1,5 +1,5 @@
-const STATS_BASE = "../data/stats";
-const PROFILES_BASE = "../data/steam_profiles.json";
+const STATS_BASE = "./data/stats";
+const PROFILES_BASE = "./data/steam_profiles.json";
 
 const tabsEl = document.getElementById("tabs");
 const rowsEl = document.getElementById("rows");

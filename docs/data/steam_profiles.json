@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-08-27T03:49:53.661217+00:00",
-  "profile_count": 177,
+  "generated_at": "2026-08-27T04:17:59.126402+00:00",
+  "profile_count": 186,
   "profiles": {
     "76561198065436693": {
       "steam_id": "76561198065436693",
@@ -279,7 +279,7 @@
     },
     "76561199122922705": {
       "steam_id": "76561199122922705",
-      "persona_name": "Flop &lt;3",
+      "persona_name": "Flop <3",
       "avatar_url": "https://avatars.fastly.steamstatic.com/a9ff9b4e485efe47e011bd5c72180e82711a6144_full.jpg",
       "avatar_medium_url": "https://avatars.fastly.steamstatic.com/a9ff9b4e485efe47e011bd5c72180e82711a6144_medium.jpg",
       "custom_url": "Flopp1319",
@@ -691,7 +691,7 @@
       "avatar_medium_url": "https://avatars.fastly.steamstatic.com/6d09929858fd52cbd244eafe093e113e000a76b7_medium.jpg",
       "custom_url": null,
       "profile_url": "https://steamcommunity.com/profiles/76561198050296376",
-      "online_state": "in-game",
+      "online_state": "online",
       "status": "ok",
       "error": null
     },
@@ -713,7 +713,7 @@
       "avatar_medium_url": "https://avatars.fastly.steamstatic.com/ee7bb74fc42d3f49dc9a70cd52dfdc25e5ed4a27_medium.jpg",
       "custom_url": "Hamzs",
       "profile_url": "https://steamcommunity.com/id/Hamzs",
-      "online_state": "in-game",
+      "online_state": "online",
       "status": "ok",
       "error": null
     },
@@ -724,7 +724,7 @@
       "avatar_medium_url": "https://avatars.fastly.steamstatic.com/b3160393e17ad4731d097c5ec50c8b2bb4dc2c50_medium.jpg",
       "custom_url": "Commander_Cat",
       "profile_url": "https://steamcommunity.com/id/Commander_Cat",
-      "online_state": "online",
+      "online_state": "offline",
       "status": "ok",
       "error": null
     },
@@ -768,7 +768,7 @@
       "avatar_medium_url": "https://avatars.fastly.steamstatic.com/3a75a55891a0f45747a4e328c4263b4a84df29db_medium.jpg",
       "custom_url": "milliondollarextreme",
       "profile_url": "https://steamcommunity.com/id/milliondollarextreme",
-      "online_state": "online",
+      "online_state": "offline",
       "status": "ok",
       "error": null
     },
@@ -856,7 +856,7 @@
       "avatar_medium_url": "https://avatars.fastly.steamstatic.com/fee84c7ca008ee11890e308a1207fb26f9f1e7a5_medium.jpg",
       "custom_url": "Svmmi",
       "profile_url": "https://steamcommunity.com/id/Svmmi",
-      "online_state": "in-game",
+      "online_state": "offline",
       "status": "ok",
       "error": null
     },
@@ -955,7 +955,7 @@
       "avatar_medium_url": "https://avatars.fastly.steamstatic.com/467714c637b266331e93a31262531e866eb302c8_medium.jpg",
       "custom_url": "WowSoPlump",
       "profile_url": "https://steamcommunity.com/id/WowSoPlump",
-      "online_state": "in-game",
+      "online_state": "online",
       "status": "ok",
       "error": null
     },
@@ -977,7 +977,7 @@
       "avatar_medium_url": "https://avatars.fastly.steamstatic.com/8b3aef71699baf540911c11200598887b9961cbd_medium.jpg",
       "custom_url": "ghositar",
       "profile_url": "https://steamcommunity.com/id/ghositar",
-      "online_state": "online",
+      "online_state": "in-game",
       "status": "ok",
       "error": null
     },
@@ -1010,7 +1010,7 @@
       "avatar_medium_url": "https://avatars.fastly.steamstatic.com/1cd0ff6f087762bbb9513c1493ed55f68ae4175e_medium.jpg",
       "custom_url": "Justic11",
       "profile_url": "https://steamcommunity.com/id/Justic11",
-      "online_state": "online",
+      "online_state": "in-game",
       "status": "ok",
       "error": null
     },
@@ -1027,7 +1027,7 @@
     },
     "76561198979486476": {
       "steam_id": "76561198979486476",
-      "persona_name": "lil &quot;papa&quot; clip",
+      "persona_name": "lil \"papa\" clip",
       "avatar_url": "https://avatars.fastly.steamstatic.com/5b54ef635af95a5426699d3fff60ee7652469161_full.jpg",
       "avatar_medium_url": "https://avatars.fastly.steamstatic.com/5b54ef635af95a5426699d3fff60ee7652469161_medium.jpg",
       "custom_url": null,
@@ -1098,7 +1098,7 @@
       "avatar_medium_url": "https://avatars.fastly.steamstatic.com/c402c7418655ccb788188bf896426cf20925c353_medium.jpg",
       "custom_url": "Sweatlordbaggenz",
       "profile_url": "https://steamcommunity.com/id/Sweatlordbaggenz",
-      "online_state": "offline",
+      "online_state": "in-game",
       "status": "ok",
       "error": null
     },
@@ -1131,7 +1131,7 @@
       "avatar_medium_url": "https://avatars.fastly.steamstatic.com/939e0b7249807e4b05a1cccc950b913d31a82597_medium.jpg",
       "custom_url": "RexTribution",
       "profile_url": "https://steamcommunity.com/id/RexTribution",
-      "online_state": "online",
+      "online_state": "offline",
       "status": "ok",
       "error": null
     },
@@ -1203,7 +1203,7 @@
     },
     "76561198311309169": {
       "steam_id": "76561198311309169",
-      "persona_name": "Ziggsss B&gt;SKINS",
+      "persona_name": "Ziggsss B>SKINS",
       "avatar_url": "https://avatars.fastly.steamstatic.com/67bd8b3e0c585450978afb2ac5d7e83f1044798b_full.jpg",
       "avatar_medium_url": "https://avatars.fastly.steamstatic.com/67bd8b3e0c585450978afb2ac5d7e83f1044798b_medium.jpg",
       "custom_url": "Ziggsss",
@@ -1593,7 +1593,7 @@
       "avatar_medium_url": "https://avatars.fastly.steamstatic.com/3d38d489e84d7752a8c6e12c5390911b3be3005c_medium.jpg",
       "custom_url": "l1nefr",
       "profile_url": "https://steamcommunity.com/id/l1nefr",
-      "online_state": "online",
+      "online_state": "offline",
       "status": "ok",
       "error": null
     },
@@ -1945,6 +1945,105 @@
       "avatar_medium_url": "https://avatars.fastly.steamstatic.com/9631dd9d19243ec906e18ba8c973bd45cb340b38_medium.jpg",
       "custom_url": "kwersi",
       "profile_url": "https://steamcommunity.com/id/kwersi",
+      "online_state": "offline",
+      "status": "ok",
+      "error": null
+    },
+    "76561199574538080": {
+      "steam_id": "76561199574538080",
+      "persona_name": ";xcL",
+      "avatar_url": "https://avatars.fastly.steamstatic.com/d12b4df6f66c6c9ceaadad8159b6087f76e87699_full.jpg",
+      "avatar_medium_url": "https://avatars.fastly.steamstatic.com/d12b4df6f66c6c9ceaadad8159b6087f76e87699_medium.jpg",
+      "custom_url": "catlvoer",
+      "profile_url": "https://steamcommunity.com/id/catlvoer",
+      "online_state": "offline",
+      "status": "ok",
+      "error": null
+    },
+    "76561198077505109": {
+      "steam_id": "76561198077505109",
+      "persona_name": "clu0od",
+      "avatar_url": "https://avatars.fastly.steamstatic.com/efd0c8edfcc67088b1b0229be7e177b551fd2df3_full.jpg",
+      "avatar_medium_url": "https://avatars.fastly.steamstatic.com/efd0c8edfcc67088b1b0229be7e177b551fd2df3_medium.jpg",
+      "custom_url": "clu0od",
+      "profile_url": "https://steamcommunity.com/id/clu0od",
+      "online_state": "offline",
+      "status": "ok",
+      "error": null
+    },
+    "76561199197294454": {
+      "steam_id": "76561199197294454",
+      "persona_name": "Crypt",
+      "avatar_url": "https://avatars.fastly.steamstatic.com/f983a25d3327a06b98a07a41ab14fe8c81ffe8ed_full.jpg",
+      "avatar_medium_url": "https://avatars.fastly.steamstatic.com/f983a25d3327a06b98a07a41ab14fe8c81ffe8ed_medium.jpg",
+      "custom_url": "cryptur",
+      "profile_url": "https://steamcommunity.com/id/cryptur",
+      "online_state": "offline",
+      "status": "ok",
+      "error": null
+    },
+    "76561198060643141": {
+      "steam_id": "76561198060643141",
+      "persona_name": "Code",
+      "avatar_url": "https://avatars.fastly.steamstatic.com/c28086cfab6597d5738496cbf64e3b4ea8bab35c_full.jpg",
+      "avatar_medium_url": "https://avatars.fastly.steamstatic.com/c28086cfab6597d5738496cbf64e3b4ea8bab35c_medium.jpg",
+      "custom_url": "Codebit",
+      "profile_url": "https://steamcommunity.com/id/Codebit",
+      "online_state": "online",
+      "status": "ok",
+      "error": null
+    },
+    "76561199070234874": {
+      "steam_id": "76561199070234874",
+      "persona_name": "hort",
+      "avatar_url": "https://avatars.fastly.steamstatic.com/ad1403dc859a4f4346051fc5a1ef0f51db3169e7_full.jpg",
+      "avatar_medium_url": "https://avatars.fastly.steamstatic.com/ad1403dc859a4f4346051fc5a1ef0f51db3169e7_medium.jpg",
+      "custom_url": "Thugalicious999",
+      "profile_url": "https://steamcommunity.com/id/Thugalicious999",
+      "online_state": "online",
+      "status": "ok",
+      "error": null
+    },
+    "76561199003807451": {
+      "steam_id": "76561199003807451",
+      "persona_name": "kil",
+      "avatar_url": "https://avatars.fastly.steamstatic.com/7881c809a2e1ebc4ce26c01d40b6319f39df361a_full.jpg",
+      "avatar_medium_url": "https://avatars.fastly.steamstatic.com/7881c809a2e1ebc4ce26c01d40b6319f39df361a_medium.jpg",
+      "custom_url": "kilzs",
+      "profile_url": "https://steamcommunity.com/id/kilzs",
+      "online_state": "online",
+      "status": "ok",
+      "error": null
+    },
+    "76561198929990646": {
+      "steam_id": "76561198929990646",
+      "persona_name": "\udb40\udc73\u2067\u2067 KingRage",
+      "avatar_url": "https://avatars.fastly.steamstatic.com/4fd3b0c86bccb2f4509bd41346d6def6d745b877_full.jpg",
+      "avatar_medium_url": "https://avatars.fastly.steamstatic.com/4fd3b0c86bccb2f4509bd41346d6def6d745b877_medium.jpg",
+      "custom_url": "KingRage83",
+      "profile_url": "https://steamcommunity.com/id/KingRage83",
+      "online_state": "online",
+      "status": "ok",
+      "error": null
+    },
+    "76561198950355334": {
+      "steam_id": "76561198950355334",
+      "persona_name": "L",
+      "avatar_url": "https://avatars.fastly.steamstatic.com/85b1beede749772c0f797cf10a7ef18cce6dac79_full.jpg",
+      "avatar_medium_url": "https://avatars.fastly.steamstatic.com/85b1beede749772c0f797cf10a7ef18cce6dac79_medium.jpg",
+      "custom_url": "Leafica",
+      "profile_url": "https://steamcommunity.com/id/Leafica",
+      "online_state": "offline",
+      "status": "ok",
+      "error": null
+    },
+    "76561198126543982": {
+      "steam_id": "76561198126543982",
+      "persona_name": "Melvin",
+      "avatar_url": "https://avatars.fastly.steamstatic.com/b4c6a68f5a7e61ad59b43e9f43ea8ad65f9992ab_full.jpg",
+      "avatar_medium_url": "https://avatars.fastly.steamstatic.com/b4c6a68f5a7e61ad59b43e9f43ea8ad65f9992ab_medium.jpg",
+      "custom_url": "melvin404",
+      "profile_url": "https://steamcommunity.com/id/melvin404",
       "online_state": "offline",
       "status": "ok",
       "error": null

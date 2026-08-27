@@ -2,11 +2,11 @@
   "category_id": "gg",
   "category_label": "GG",
   "description": "Times player said some variation of gg",
-  "generated_at": "2026-08-27T03:47:44.908016+00:00",
-  "source_message_count": 115716,
-  "player_count": 161,
-  "players_with_matches": 152,
-  "total_matches": 13859,
+  "generated_at": "2026-08-27T04:18:01.318713+00:00",
+  "source_message_count": 123588,
+  "player_count": 169,
+  "players_with_matches": 159,
+  "total_matches": 14818,
   "leaderboard": [
     {
       "steam_id": "76561198970429551",
@@ -15,6 +15,14 @@
       "total_messages": 10713,
       "match_count": 2136,
       "rate_per_message": 0.199384
+    },
+    {
+      "steam_id": "76561199070234874",
+      "steam_url": "https://steamcommunity.com/profiles/76561199070234874",
+      "cstracker_url": "https://cstracker.gg/players/76561199070234874",
+      "total_messages": 3511,
+      "match_count": 556,
+      "rate_per_message": 0.158359
     },
     {
       "steam_id": "76561197960423112",
@@ -135,6 +143,14 @@
       "total_messages": 3139,
       "match_count": 252,
       "rate_per_message": 0.08028
+    },
+    {
+      "steam_id": "76561198077505109",
+      "steam_url": "https://steamcommunity.com/profiles/76561198077505109",
+      "cstracker_url": "https://cstracker.gg/players/76561198077505109",
+      "total_messages": 306,
+      "match_count": 248,
+      "rate_per_message": 0.810458
     },
     {
       "steam_id": "76561198065436693",
@@ -457,6 +473,14 @@
       "rate_per_message": 0.060718
     },
     {
+      "steam_id": "76561198950355334",
+      "steam_url": "https://steamcommunity.com/profiles/76561198950355334",
+      "cstracker_url": "https://cstracker.gg/players/76561198950355334",
+      "total_messages": 2463,
+      "match_count": 64,
+      "rate_per_message": 0.025985
+    },
+    {
       "steam_id": "76561198067700216",
       "steam_url": "https://steamcommunity.com/id/whether",
       "cstracker_url": "https://cstracker.gg/players/76561198067700216",
@@ -559,6 +583,14 @@
       "total_messages": 1031,
       "match_count": 51,
       "rate_per_message": 0.049467
+    },
+    {
+      "steam_id": "76561199197294454",
+      "steam_url": "https://steamcommunity.com/profiles/76561199197294454",
+      "cstracker_url": "https://cstracker.gg/players/76561199197294454",
+      "total_messages": 473,
+      "match_count": 47,
+      "rate_per_message": 0.099366
     },
     {
       "steam_id": "76561199176433616",
@@ -809,6 +841,14 @@
       "rate_per_message": 0.042179
     },
     {
+      "steam_id": "76561198126543982",
+      "steam_url": "https://steamcommunity.com/profiles/76561198126543982",
+      "cstracker_url": "https://cstracker.gg/players/76561198126543982",
+      "total_messages": 578,
+      "match_count": 23,
+      "rate_per_message": 0.039792
+    },
+    {
       "steam_id": "76561198193984951",
       "steam_url": "https://steamcommunity.com/id/endiez",
       "cstracker_url": "https://cstracker.gg/players/76561198193984951",
@@ -905,6 +945,14 @@
       "rate_per_message": 0.113402
     },
     {
+      "steam_id": "76561199574538080",
+      "steam_url": "https://steamcommunity.com/profiles/76561199574538080",
+      "cstracker_url": "https://cstracker.gg/players/76561199574538080",
+      "total_messages": 120,
+      "match_count": 11,
+      "rate_per_message": 0.091667
+    },
+    {
       "steam_id": "76561198207237589",
       "steam_url": "https://steamcommunity.com/profiles/76561198207237589",
       "cstracker_url": "https://cstracker.gg/players/76561198207237589",
@@ -919,6 +967,14 @@
       "total_messages": 202,
       "match_count": 10,
       "rate_per_message": 0.049505
+    },
+    {
+      "steam_id": "76561198929990646",
+      "steam_url": "https://steamcommunity.com/profiles/76561198929990646",
+      "cstracker_url": "https://cstracker.gg/players/76561198929990646",
+      "total_messages": 382,
+      "match_count": 10,
+      "rate_per_message": 0.026178
     },
     {
       "steam_id": "76561198979486476",
@@ -1293,6 +1349,14 @@
       "steam_url": "https://steamcommunity.com/profiles/76561198385131634",
       "cstracker_url": "https://cstracker.gg/players/76561198385131634",
       "total_messages": 9,
+      "match_count": 0,
+      "rate_per_message": 0.0
+    },
+    {
+      "steam_id": "76561199003807451",
+      "steam_url": "https://steamcommunity.com/profiles/76561199003807451",
+      "cstracker_url": "https://cstracker.gg/players/76561199003807451",
+      "total_messages": 39,
       "match_count": 0,
       "rate_per_message": 0.0
     }

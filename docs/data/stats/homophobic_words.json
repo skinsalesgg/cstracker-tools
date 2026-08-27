@@ -2,11 +2,11 @@
   "category_id": "homophobic_words",
   "category_label": "Homophobic Words",
   "description": "Homophobic words",
-  "generated_at": "2026-08-27T03:47:44.757907+00:00",
-  "source_message_count": 115716,
-  "player_count": 161,
-  "players_with_matches": 80,
-  "total_matches": 599,
+  "generated_at": "2026-08-27T04:18:01.033016+00:00",
+  "source_message_count": 123588,
+  "player_count": 169,
+  "players_with_matches": 84,
+  "total_matches": 637,
   "leaderboard": [
     {
       "steam_id": "76561197960423112",
@@ -73,6 +73,14 @@
       "rate_per_message": 0.014032
     },
     {
+      "steam_id": "76561199070234874",
+      "steam_url": "https://steamcommunity.com/profiles/76561199070234874",
+      "cstracker_url": "https://cstracker.gg/players/76561199070234874",
+      "total_messages": 3511,
+      "match_count": 18,
+      "rate_per_message": 0.005127
+    },
+    {
       "steam_id": "76561198983729391",
       "steam_url": "https://steamcommunity.com/id/yapin_",
       "cstracker_url": "https://cstracker.gg/players/76561198983729391",
@@ -129,6 +137,14 @@
       "rate_per_message": 0.002813
     },
     {
+      "steam_id": "76561198929990646",
+      "steam_url": "https://steamcommunity.com/profiles/76561198929990646",
+      "cstracker_url": "https://cstracker.gg/players/76561198929990646",
+      "total_messages": 382,
+      "match_count": 11,
+      "rate_per_message": 0.028796
+    },
+    {
       "steam_id": "76561198274155578",
       "steam_url": "https://steamcommunity.com/id/CheffeELJefe",
       "cstracker_url": "https://cstracker.gg/players/76561198274155578",
@@ -183,6 +199,14 @@
       "total_messages": 1053,
       "match_count": 8,
       "rate_per_message": 0.007597
+    },
+    {
+      "steam_id": "76561199197294454",
+      "steam_url": "https://steamcommunity.com/profiles/76561199197294454",
+      "cstracker_url": "https://cstracker.gg/players/76561199197294454",
+      "total_messages": 473,
+      "match_count": 7,
+      "rate_per_message": 0.014799
     },
     {
       "steam_id": "76561198286843949",
@@ -391,6 +415,14 @@
       "total_messages": 1028,
       "match_count": 2,
       "rate_per_message": 0.001946
+    },
+    {
+      "steam_id": "76561198950355334",
+      "steam_url": "https://steamcommunity.com/profiles/76561198950355334",
+      "cstracker_url": "https://cstracker.gg/players/76561198950355334",
+      "total_messages": 2463,
+      "match_count": 2,
+      "rate_per_message": 0.000812
     },
     {
       "steam_id": "76561198168757672",
@@ -1293,6 +1325,38 @@
       "steam_url": "https://steamcommunity.com/id/mrpunkman",
       "cstracker_url": "https://cstracker.gg/players/76561197979060308",
       "total_messages": 17,
+      "match_count": 0,
+      "rate_per_message": 0.0
+    },
+    {
+      "steam_id": "76561199574538080",
+      "steam_url": "https://steamcommunity.com/profiles/76561199574538080",
+      "cstracker_url": "https://cstracker.gg/players/76561199574538080",
+      "total_messages": 120,
+      "match_count": 0,
+      "rate_per_message": 0.0
+    },
+    {
+      "steam_id": "76561198077505109",
+      "steam_url": "https://steamcommunity.com/profiles/76561198077505109",
+      "cstracker_url": "https://cstracker.gg/players/76561198077505109",
+      "total_messages": 306,
+      "match_count": 0,
+      "rate_per_message": 0.0
+    },
+    {
+      "steam_id": "76561199003807451",
+      "steam_url": "https://steamcommunity.com/profiles/76561199003807451",
+      "cstracker_url": "https://cstracker.gg/players/76561199003807451",
+      "total_messages": 39,
+      "match_count": 0,
+      "rate_per_message": 0.0
+    },
+    {
+      "steam_id": "76561198126543982",
+      "steam_url": "https://steamcommunity.com/profiles/76561198126543982",
+      "cstracker_url": "https://cstracker.gg/players/76561198126543982",
+      "total_messages": 578,
       "match_count": 0,
       "rate_per_message": 0.0
     }

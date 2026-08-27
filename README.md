@@ -20,7 +20,7 @@ python analyze_chat_stats.py
 
 # 4. Preview locally
 python serve_dashboard.py
-# open http://127.0.0.1:8765/dashboard/
+# open http://127.0.0.1:8765/
 
 # 5. Build static site for GitHub Pages
 python build_pages.py
@@ -45,7 +45,17 @@ git push
 
 Enable Pages once in the repo: **Settings → Pages → Source: GitHub Actions**.
 
-Live URL: `https://<username>.github.io/cstracker-tools/dashboard/`
+Set custom domain in **Settings → Pages → Custom domain**: `chattrak.goodvibes.gg` (the `docs/CNAME` file is written by `build_pages.py`).
+
+### Cloudflare DNS (goodvibes.gg)
+
+| Type | Name | Target | Proxy |
+|------|------|--------|-------|
+| CNAME | `chattrak` | `skinsalesgg.github.io` | DNS only (gray cloud) until GitHub verifies |
+
+After GitHub shows the domain as verified, you can turn the Cloudflare proxy back on if you want.
+
+Live URL: **https://chattrak.goodvibes.gg/**
 
 ## Push to a different GitHub account
 
