@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-27T05:00:36.347451+00:00",
+  "generated_at": "2026-08-27T05:11:09.946536+00:00",
   "input_file": "data/chat_messages_flat.json",
   "config_file": "configs/chat_categories.json",
   "categories": [
@@ -8,16 +8,16 @@
       "label": "Bad Words",
       "description": "Profanity and slurs",
       "file": "bad_words.json",
-      "player_count": 171,
-      "players_with_matches": 132,
-      "total_matches": 4760
+      "player_count": 172,
+      "players_with_matches": 133,
+      "total_matches": 4789
     },
     {
       "id": "racist_words",
       "label": "Racist Words",
       "description": "Racist words",
       "file": "racist_words.json",
-      "player_count": 171,
+      "player_count": 172,
       "players_with_matches": 40,
       "total_matches": 418
     },
@@ -26,7 +26,7 @@
       "label": "Homophobic Words",
       "description": "Homophobic words",
       "file": "homophobic_words.json",
-      "player_count": 171,
+      "player_count": 172,
       "players_with_matches": 86,
       "total_matches": 643
     },
@@ -35,27 +35,27 @@
       "label": "GG",
       "description": "Times player said some variation of gg",
       "file": "gg.json",
-      "player_count": 171,
-      "players_with_matches": 161,
-      "total_matches": 14965
+      "player_count": 172,
+      "players_with_matches": 162,
+      "total_matches": 15001
     },
     {
       "id": "get_leetify",
       "label": "Get Leetify",
       "description": "Times player said get leetify",
       "file": "get_leetify.json",
-      "player_count": 171,
-      "players_with_matches": 66,
-      "total_matches": 1876
+      "player_count": 172,
+      "players_with_matches": 67,
+      "total_matches": 1878
     },
     {
       "id": "cheater_accusations",
       "label": "Cheater Accusations",
       "description": "cheater, wallhack, aimhack, spinbot, wh, etc.",
       "file": "cheater_accusations.json",
-      "player_count": 171,
-      "players_with_matches": 105,
-      "total_matches": 1309
+      "player_count": 172,
+      "players_with_matches": 106,
+      "total_matches": 1320
     }
   ]
 }

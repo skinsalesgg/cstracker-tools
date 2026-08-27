@@ -2,9 +2,9 @@
   "category_id": "homophobic_words",
   "category_label": "Homophobic Words",
   "description": "Homophobic words",
-  "generated_at": "2026-08-27T05:00:35.830356+00:00",
-  "source_message_count": 124358,
-  "player_count": 171,
+  "generated_at": "2026-08-27T05:11:09.431443+00:00",
+  "source_message_count": 124673,
+  "player_count": 172,
   "players_with_matches": 86,
   "total_matches": 643,
   "leaderboard": [
@@ -1373,6 +1373,14 @@
       "steam_url": "https://steamcommunity.com/profiles/76561198126543982",
       "cstracker_url": "https://cstracker.gg/players/76561198126543982",
       "total_messages": 578,
+      "match_count": 0,
+      "rate_per_message": 0.0
+    },
+    {
+      "steam_id": "76561199136029580",
+      "steam_url": "https://steamcommunity.com/profiles/76561199136029580",
+      "cstracker_url": "https://cstracker.gg/players/76561199136029580",
+      "total_messages": 315,
       "match_count": 0,
       "rate_per_message": 0.0
     }
