@@ -1,0 +1,126 @@
+{
+  "categories": [
+    {
+      "id": "bad_words",
+      "label": "Bad Words",
+      "description": "Profanity and slurs",
+      "match_type": "terms",
+      "whole_word": true,
+      "case_sensitive": false,
+      "terms": [
+        "fuck",
+        "fucks",
+        "fucking",
+        "fucker",
+        "fuckers",
+        "fucked",
+        "shit",
+        "shits",
+        "shitty",
+        "bitch",
+        "bitches",
+        "bastard",
+        "bastards",
+        "asshole",
+        "assholes",
+        "dick",
+        "dicks",
+        "pussy",
+        "pussies",
+        "cunt",
+        "cunts",
+        "retard",
+        "retards",
+        "retarded",
+        "nigger",
+        "niggers",
+        "nigga",
+        "niggas",
+        "faggot",
+        "faggots",
+        "fag",
+        "fags"
+      ]
+    },
+    {
+      "id": "racist_words",
+      "label": "Racist Words",
+      "description": "Racist words",
+      "match_type": "terms",
+      "whole_word": true,
+      "case_sensitive": false,
+      "terms": [
+        "nigger",
+        "niggers",
+        "nigga",
+        "niggas"
+      ]
+    },
+    {
+      "id": "homophobic_words",
+      "label": "Homophobic Words",
+      "description": "Homophobic words",
+      "match_type": "terms",
+      "whole_word": true,
+      "case_sensitive": false,
+      "terms": [
+        "faggot",
+        "faggots",
+        "fag",
+        "fags",
+        "gay",
+        "gays",
+        "homo",
+        "homos",
+        "homosexual",
+        "homosexuals",
+        "homosexualism",
+        "homosexualisms",
+        "homosexualist"
+      ]
+    },
+    {
+      "id": "gg",
+      "label": "GG",
+      "description": "Times player said some variation of gg",
+      "match_type": "terms",
+      "whole_word": true,
+      "case_sensitive": false,
+      "terms": [
+        "gg",
+        "ggs",
+        "glhf",
+        "gh"
+      ]
+    },
+    {
+      "id": "get_leetify",
+      "label": "Get Leetify",
+      "description": "Times player said get leetify",
+      "match_type": "regex",
+      "whole_word": false,
+      "case_sensitive": false,
+      "patterns": ["get leetify"]
+    },
+    {
+      "id": "cheater_accusations",
+      "label": "Cheater Accusations",
+      "description": "cheater, wallhack, aimhack, spinbot, wh, etc.",
+      "match_type": "terms",
+      "whole_word": true,
+      "case_sensitive": false,
+      "terms": [
+        "cheater",
+        "cheaters",
+        "cheating",
+        "wallhacks",
+        "wallhack",
+        "aimhacks",
+        "aimhack",
+        "spinbot",
+        "spinbots",
+        "wh"
+      ]
+    }
+  ]
+}

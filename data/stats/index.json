@@ -1,0 +1,61 @@
+{
+  "generated_at": "2026-08-27T03:47:45.282103+00:00",
+  "input_file": "data/chat_messages_flat.json",
+  "config_file": "configs/chat_categories.json",
+  "categories": [
+    {
+      "id": "bad_words",
+      "label": "Bad Words",
+      "description": "Profanity and slurs",
+      "file": "bad_words.json",
+      "player_count": 161,
+      "players_with_matches": 124,
+      "total_matches": 4355
+    },
+    {
+      "id": "racist_words",
+      "label": "Racist Words",
+      "description": "Racist words",
+      "file": "racist_words.json",
+      "player_count": 161,
+      "players_with_matches": 37,
+      "total_matches": 395
+    },
+    {
+      "id": "homophobic_words",
+      "label": "Homophobic Words",
+      "description": "Homophobic words",
+      "file": "homophobic_words.json",
+      "player_count": 161,
+      "players_with_matches": 80,
+      "total_matches": 599
+    },
+    {
+      "id": "gg",
+      "label": "GG",
+      "description": "Times player said some variation of gg",
+      "file": "gg.json",
+      "player_count": 161,
+      "players_with_matches": 152,
+      "total_matches": 13859
+    },
+    {
+      "id": "get_leetify",
+      "label": "Get Leetify",
+      "description": "Times player said get leetify",
+      "file": "get_leetify.json",
+      "player_count": 161,
+      "players_with_matches": 62,
+      "total_matches": 1758
+    },
+    {
+      "id": "cheater_accusations",
+      "label": "Cheater Accusations",
+      "description": "cheater, wallhack, aimhack, spinbot, wh, etc.",
+      "file": "cheater_accusations.json",
+      "player_count": 161,
+      "players_with_matches": 96,
+      "total_matches": 1229
+    }
+  ]
+}

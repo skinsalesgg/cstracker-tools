@@ -1,0 +1,23 @@
+.venv/
+__pycache__/
+*.pyc
+.DS_Store
+
+# Large/local-only fetch artifacts
+data/chat_messages_flat.json
+data/chat_history_by_player.json
+data/fetch_summary.json
+data/fetch.log
+data/fetch.pid
+data/enrich_steam.log
+data/retry.log
+data/retry_links.txt
+data/retry_temp/
+data/dashboard_server.log
+data/dashboard_server.pid
+
+# Published site is built into docs/ — commit that folder
+# Stats + profiles are committed for CI rebuilds
+!data/stats/
+!data/stats/**
+!data/steam_profiles.json

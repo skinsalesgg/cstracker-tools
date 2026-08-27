@@ -1,0 +1,4 @@
+# One Steam ID or cstracker player URL per line.
+# Lines starting with # are ignored.
+
+https://cstracker.gg/players/76561198090566832
