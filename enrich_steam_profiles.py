@@ -110,6 +110,16 @@ def fetch_steam_profile(steam_id: str, *, timeout: float) -> dict:
         }
 
 
+def load_existing_profiles(output_path: Path) -> dict[str, dict]:
+    if not output_path.exists():
+        return {}
+    payload = json.loads(output_path.read_text(encoding="utf-8"))
+    profiles = payload.get("profiles", {})
+    if not isinstance(profiles, dict):
+        return {}
+    return profiles
+
+
 def load_steam_ids(summary_path: Path) -> list[str]:
     summary = json.loads(summary_path.read_text(encoding="utf-8"))
     steam_ids: list[str] = []
@@ -140,6 +150,11 @@ def build_parser() -> argparse.ArgumentParser:
     parser.add_argument("--delay", type=float, default=1.5)
     parser.add_argument("--jitter", type=float, default=0.5)
     parser.add_argument("--timeout", type=float, default=20.0)
+    parser.add_argument(
+        "--only-missing",
+        action="store_true",
+        help="Skip steam_ids already in output with status ok; merge new fetches into existing profiles",
+    )
     return parser
 
 
@@ -156,6 +171,22 @@ def main(argv: list[str] | None = None) -> int:
         return 1
 
     profiles: dict[str, dict] = {}
+    if args.only_missing:
+        profiles = load_existing_profiles(args.output)
+        skipped = sum(
+            1 for steam_id in steam_ids if profiles.get(steam_id, {}).get("status") == "ok"
+        )
+        steam_ids = [
+            steam_id
+            for steam_id in steam_ids
+            if profiles.get(steam_id, {}).get("status") != "ok"
+        ]
+        log(f"Loaded {len(profiles)} existing profiles; skipping {skipped} with status ok")
+        if not steam_ids:
+            log("No missing profiles to fetch")
+            write_output(profiles, args.output)
+            return 0
+
     total = len(steam_ids)
 
     for index, steam_id in enumerate(steam_ids, start=1):
